@@ -1,0 +1,184 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/6981d61b7632a3a3286f9f16_GeneralSans-Semibold.otf
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\6981d61b7632a3a3286f9f16_GeneralSans-Semibold.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/6981d6547105dc7777391867_GeneralSans-Medium.otf
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\6981d6547105dc7777391867_GeneralSans-Medium.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/6981d65ee56aae76e10a644d_GeneralSans-Bold.otf
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\6981d65ee56aae76e10a644d_GeneralSans-Bold.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69875cc0354f14ebbb08665e_Sanchez-Regular.ttf
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69875cc0354f14ebbb08665e_Sanchez-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698802d054111c126a7fb407_profil1.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698802d054111c126a7fb407_profil1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698802d0ca88694aea7d6c40_profil2.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698802d0ca88694aea7d6c40_profil2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed2c220f9f893af1cb3_Limovaai.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed2c220f9f893af1cb3_Limovaai.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed2c47d27b6c2ee8cda_Goolge.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed2c47d27b6c2ee8cda_Goolge.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed376065530eabcfadd_Polygon.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed376065530eabcfadd_Polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed39242edaadd7e6c36_Pulsor.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed39242edaadd7e6c36_Pulsor.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed39b3ebec90bdae5cd_Lovable.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed39b3ebec90bdae5cd_Lovable.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed448e5077d669afb3b_Revolut.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed448e5077d669afb3b_Revolut.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69889ed51a04b10f1e30252d_Shopify.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69889ed51a04b10f1e30252d_Shopify.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-1080.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-500.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-800.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698904b322354c21182c12b5_Gemini_Generated_Image_61c3qt61c3qt61c3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69893eb90057733c82ce81d2_twitter.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69893eb90057733c82ce81d2_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69893eb90ba9ebf5e05e6a5a_wapp.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69893eb90ba9ebf5e05e6a5a_wapp.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69893eb9465b61765c5656cd_gmail.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69893eb9465b61765c5656cd_gmail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69893eb975007f2e2f7d948d_insta.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69893eb975007f2e2f7d948d_insta.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698b4ac78696faa082db9fba_Polygon 1-p-1080.webp
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698b4ac78696faa082db9fba_Polygon 1-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698b4ac78696faa082db9fba_Polygon 1-p-500.webp
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698b4ac78696faa082db9fba_Polygon 1-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698b4ac78696faa082db9fba_Polygon 1-p-800.webp
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698b4ac78696faa082db9fba_Polygon 1-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698b4ac78696faa082db9fba_Polygon 1.webp
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698b4ac78696faa082db9fba_Polygon 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698b5c0e1bc2b60c8931a28b_Rectangle.png
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698b5c0e1bc2b60c8931a28b_Rectangle.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698c534964a5e7782b62084c_trait.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698c534964a5e7782b62084c_trait.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698c6281ddd097906e573292_Group2.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698c6281ddd097906e573292_Group2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698c628263a1a38c4e30a969_Group1.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698c628263a1a38c4e30a969_Group1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/698c62828dc17f1a1d749b4a_Group3.svg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\698c62828dc17f1a1d749b4a_Group3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af2ec8996bcf20e26d8d47_Quera-DEMO-BF68be80d1aceec.otf
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af2ec8996bcf20e26d8d47_Quera-DEMO-BF68be80d1aceec.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-1080.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-1600.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-2000.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-2000.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-2600.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-2600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-500.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test-p-800.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/69af34c14c5d9f573b78825a_bg_hero_test.jpg
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\69af34c14c5d9f573b78825a_bg_hero_test.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/css/jeremies-portfolio-10697c.webflow.shared.2feff3251.css
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\css\jeremies-portfolio-10697c.webflow.shared.2feff3251.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/js/webflow.39091c19.6818490411b53e9f.js
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\js\webflow.39091c19.6818490411b53e9f.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/69727af7fd63a2fdd9c1eb2c/js/webflow.schunk.36b8fb49256177c8.js
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\69727af7fd63a2fdd9c1eb2c\js\webflow.schunk.36b8fb49256177c8.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.prod.website-files.com/img/webclip.png
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=69727af7fd63a2fdd9c1eb2c
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://jeremies-portfolio-10697c.webflow.io/
+File Name: C:\Downloaded Web Sites\jeremies-portfolio-10697c.webflow.io\index.htm
+Content Type: text/html
+
